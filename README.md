@@ -1,16 +1,3 @@
-# e_sinav
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Haknozer/3311456/assets/137529910/ebd70267-7609-48bf-abec-91b24ca44713)
+![image](https://github.com/Haknozer/3311456/assets/137529910/05c02cb2-a379-4b8d-b33f-24caba4e15d7)
+![image](https://github.com/Haknozer/3311456/assets/137529910/57339f10-cc9d-4025-97dd-c87db347175a)
